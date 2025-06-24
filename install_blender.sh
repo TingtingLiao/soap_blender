@@ -34,4 +34,4 @@ else
 fi
 
 echo "Installing requirements..."
-/opt/blender-3.6/3.6/python/bin/python3.10 -m pip install --target /opt/blender-3.6/3.6/python/lib/python3.10/site-packages -r requirements.txt
+/opt/blender-3.6/3.6/python/bin/python3.10 -m pip install --target /opt/blender-3.6/3.6/python/lib/python3.10/site-packages pillow
